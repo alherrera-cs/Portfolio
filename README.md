@@ -1,3 +1,9 @@
+About Me:
+I am a Computer Science student at Oregon State University with a focus on web security and software development. My GitHub portfolio showcases my projects, including my senior Capstone project on website security, various class assignments, and personal open-source contributions. I'm passionate about building secure and efficient web applications.
+
+
+
+
 # Capstone Project: Website Security Research Project
 
 **Team Members:** Alexa Herrera, Sean Brady, Brynn DeVaan, Cody Ray  
